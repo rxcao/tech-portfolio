@@ -3,30 +3,17 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am Rachel Cao, and I am a Software Engineer at Box. 
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+I started my career in technical support with no background in computer science. After a few years in support, I joined the engineering organization at Box as an Associate Software Engineer to work on customer-reported issue investigation and triage, as well as build and improve tools to address chronic issues.
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I value opportunities to continuously learn and deepen my understanding of the world, particularly around how technology impacts our society. Besides that, I seek to give back and better the communities I am a part of, as I am a first-generation college student with a low-income background from a refugee family. Outside of work, I enjoy spending time with my dog, catching up on shows, trying out new recipes, and playing video games.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Associate Software Engineer @ Box
 
-## Recognition
+## Organization Involvement
 
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
+- Box Asian Pacific Islander Employee Resource Group Co-Founder, 2017 - 2019
+- Stanford Asian Pacific American Alumni Club Board Member, 2016 - 2018
